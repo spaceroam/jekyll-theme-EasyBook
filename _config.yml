@@ -1,14 +1,14 @@
 # Site settings
-title: Another Blog
-url: "http://laobubu.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
+title: Time Harbor
+url: "http://spaceroam.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
 baseurl: "/jekyll-theme-EasyBook" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
-#timezone: Asia/Chongqing
+#timezone: America/Atlanta
 description: >
-  One or more sentences introducing this blog.
+  怒马鲜衣锦夜行
 
 # Your information
 email: your_email@example.com
-author: your_name
+author: 七弦
 avatar: "//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
 profile: One sentence introducing yourself.
 #twitter_username: twitter_username
@@ -20,7 +20,7 @@ profile_links:
 
 # Comment Service (Disqus or 多说)
 #  choose one and un-comment the line to active it
-#disqus_shortname: xxx   # get one: https://disqus.com/admin/signup/
+disqus_shortname: xxx    get one: https://disqus.com/admin/signup/
 #duoshuo_shortname: xxx  # get one: http://duoshuo.com/create-site/
 
 excerpt_separator: <!--more-->
