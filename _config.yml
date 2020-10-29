@@ -14,7 +14,7 @@ profile: 怒马鲜衣锦夜行
 #github_username:  github_username
 profile_links:
   Email: "mailto:7strings.hz@gmail.com"
-  GitHub: "https://github.com/laobubu/jekyll-theme-EasyBook"
+  # GitHub: "https://github.com/laobubu/jekyll-theme-EasyBook"
   # You can add more profile links above, or edit _includes/sidebar.html 
 
 # Comment Service (Disqus or 多说)
