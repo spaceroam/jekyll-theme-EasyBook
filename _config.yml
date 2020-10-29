@@ -4,7 +4,7 @@ url: "http://spaceroam.github.io"    # the protocol and hostname of your site, e
 baseurl: "/jekyll-theme-EasyBook" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
 #timezone: America/Atlanta
 description: >  
-Some simple notes
+  Some simple notes.
 # Your information
 email: 7strings.hz@gmail.com
 author: 七弦
