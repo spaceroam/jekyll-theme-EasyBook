@@ -3,11 +3,10 @@ title: Time Harbor
 url: "http://spaceroam.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
 baseurl: "/jekyll-theme-EasyBook" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
 #timezone: America/Atlanta
-description: >
-  怒马鲜衣锦夜行
+description: >  怒马鲜衣锦夜行
 
 # Your information
-email: your_email@example.com
+email: 7strings.hz@gmail.com
 author: 七弦
 avatar: "//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
 profile: One sentence introducing yourself.
