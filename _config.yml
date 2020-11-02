@@ -2,9 +2,9 @@
 title: Time Harbor
 url: "https://spaceroam.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
 baseurl: "/jekyll-theme-EasyBook" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
-timezone: America/Atlanta
+timezone: America/New York
 description: >  
-  Some simple notes.
+  大时代的避风港
 # Your information
 email: timeharbour@gmail.com
 author: 七弦
